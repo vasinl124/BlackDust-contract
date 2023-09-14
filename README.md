@@ -30,3 +30,22 @@ Black Dust :
 - On-chain refundable minting
 - Manual reveal
 - Non-custodial staking
+
+### Minting Experience
+
+<video src="./1-Black Dust - Mint.mov" controls="controls">
+</video>
+
+### Refund Experience
+
+<video src="./2-Black Dust - Refund.mov" controls="controls">
+</video>
+
+### Manual Reveal Experience
+
+<video src="./3-Black Dust - Manual Reveal.mp4" controls="controls">
+</video>
+
+### Staking Experience
+
+<img src="./4-Black Dust - Staking.png" alt="Black Dust - Staking">

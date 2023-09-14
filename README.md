@@ -18,9 +18,9 @@ Black Dust - Takrut :
 Black Dust :
 [OpenSea](https://opensea.io/collection/blackdust) | [Etherscan](https://etherscan.io/address/0x7b6ad715d1d3389491fb735b58d518d61d6a54e8)
 
-<img src="./Black Dust NFT.png" alt="Black Dust NFT">
+<img src="./blackdust-nft-collection.gif" alt="Black Dust NFT">
 
-<img src="./Takrut NFT.png" alt="Black Dust Takrut NFT">
+<img src="./BD_VDOMint_Unrevealed_art_VDO_360P.gif" alt="Black Dust Takrut NFT" width="200px">
 
 ## Contracts
 

@@ -18,6 +18,10 @@ Black Dust - Takrut :
 Black Dust :
 [OpenSea](https://opensea.io/collection/blackdust) | [Etherscan](https://etherscan.io/address/0x7b6ad715d1d3389491fb735b58d518d61d6a54e8)
 
+<img src="./Black Dust NFT.png" alt="Black Dust NFT">
+
+<img src="./Takrut NFT.png" alt="Black Dust Takrut NFT">
+
 ## Contracts
 
 - Takrut
@@ -33,18 +37,15 @@ Black Dust :
 
 ### Minting Experience
 
-<video src="./1-Black Dust - Mint.mov" controls="controls">
-</video>
+<img src="./1-Black Dust - Mint.gif" alt="Black Dust Mint Exp">
 
 ### Refund Experience
 
-<video src="./2-Black Dust - Refund.mov" controls="controls">
-</video>
+<img src="./2-Black Dust - Refund.gif" alt="Black Dust Refund Exp">
 
 ### Manual Reveal Experience
 
-<video src="./3-Black Dust - Manual Reveal.mp4" controls="controls">
-</video>
+<img src="./3-Black Dust - Reveal Exp.gif" alt="Black Dust Reveal Exp">
 
 ### Staking Experience
 
